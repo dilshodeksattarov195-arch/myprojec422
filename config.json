@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingpync",
+        "uuid": 2457728,
+        "checksum": "5wbpuu"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
